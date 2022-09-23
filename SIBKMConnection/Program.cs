@@ -6,7 +6,7 @@ namespace SIBKMConnection
 {
     class Program
     {
-        public SqlConnection sqlConnection;
+        SqlConnection sqlConnection;
 
         /*
          * Data Source - Server 
